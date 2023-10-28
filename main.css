@@ -40,8 +40,8 @@ p {
 	clear: both;
 }
 
-.image-electronics, .image-stage-effects { border: 3px solid red; 
-	padding: 20px;
+.image-electronics, .image-stage-effects { border: 3px solid red; padding: 20px;
+
 }
 
 .record-label { color: red;
@@ -49,12 +49,11 @@ p {
 
 }
 
-.track-list { padding: 20px red;
+.track-list { padding: 20px; color: solid red;
 
 }
 
-#about-photo { border: 3px solid red;padding: 20px;
-
+#about-photo { border: 3px solid red; padding: 20px;
 }
 
 #copyright { color: red; 
