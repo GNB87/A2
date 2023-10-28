@@ -7,26 +7,26 @@
 */
 
 body {
-	background-color: black;
-	color: white;
-	font-size: 16px;
-	font-family: 'Do Hyeon', sans-serif;
+background-color: black;
+color: white;
+font-size: 16px;
+font-family: 'Do Hyeon', sans-serif;
 }
 
 h1, h2, h3 {
-	font-family: 'Barriecito', cursive; 
+font-family: 'Barriecito', cursive; 
 }
 
 h1 {
-	font-size: 2.5em;
+font-size: 2.5em;
 }
 
 h2 {
-	font-size: 1.75em; 
+font-size: 1.75em; 
 }
 
 h3 {
-	font-size: 1.5em;
+font-size: 1.5em;
 }
 
 p {
@@ -36,16 +36,18 @@ p {
 
 }
 
-.clear { content: 3px;
+.clear { 
 	clear: both;
 }
 
-.image-electronics, .image-stage-effects { border: 3px solid red; padding: 20px;
+.image-electronics, .image-stage-effects { border: 3px solid red; 
+	padding: 20px;
 	content: 3px;
 	
 }
 
-.record-label { color: red;padding: 20px;
+.record-label { color: red;
+	padding: 20px;
 
 }
 
